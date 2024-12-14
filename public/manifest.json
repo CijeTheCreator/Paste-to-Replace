@@ -1,6 +1,6 @@
 {
-  "name": "React example plugin",
-  "description": "Example plugin with react",
+  "name": "Paste to Replace",
+  "description": "Replace elements effortlessly without resizing.",
   "code": "/plugin.js",
   "icon": "/icon.png",
   "permissions": [
